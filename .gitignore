@@ -52,3 +52,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Archivos de configuracion
+*.json
+*.txt
+
+# Imagenes
+*.jpg
+*.png
